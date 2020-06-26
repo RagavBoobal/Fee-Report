@@ -9,9 +9,9 @@ Can  effectively manage the Fees  transaction Can  check the  due fee of  the st
 The students are separated according to their payment status(Fees paid students and Fees unpaid students).
 
 MODULES :-
-Student  Registeration Module
-Student  Login Module
-Payment  Module
-Student Module to check their dues
-Fees  Receipt  Module
-Accountant Module (Can see list of paid and unpaid students).
+Student  Registeration Module,
+Student  Login Module,
+Payment  Module,
+Student Module to check their dues,
+Fees  Receipt  Module,
+Accountant Module (Can see list of paid and unpaid students)...
