@@ -1,5 +1,7 @@
 # Fee-Report
 
+It is implemented using swing concepts in java programming.
+
 OBJECTIVE :- 
 A  Fee report  system which manages the  fees payed by the students to the institution.Fees  may be Semester fees  and Exam Fees.
 The students are requested to pay their fees using portal only.If  they fail to pay their fees,fine amount will be calculated.
